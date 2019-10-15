@@ -29,7 +29,7 @@
               <h:panelGrid columns="2">
                 <h:outputLabel for="name" value="Please enter your name" />
                 <h:inputText id="name" value="#{Madhu Devops Engineer.name}" required="true"/>
-                <h:commandButton value="Press me" action="#{helloWorld.send}"/>
+                <h:commandButton value="Press me" action="#{Madhu SravS.send}"/>
                 <h:messages showDetail="true" showSummary="false"/>
               </h:panelGrid>
             </h:form>
