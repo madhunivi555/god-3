@@ -13,7 +13,7 @@ pipeline {
       }
     stage ('To test the project') {
       steps {
-       echo "To Test the Project') 
+       echo "To Test the Project" 
        }
       }
     stage ('To Deploy The Project') {
